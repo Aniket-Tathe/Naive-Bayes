@@ -10,7 +10,7 @@ This project aims to create a Naive Bayes classifier for predicting the rating o
 - Scikit-learn
 
 ## Files
-* `Naive_Bayes_.py` - Python code to load the clothing reviews dataset, preprocess the text data, train a Naive Bayes model, and evaluate the model performance.
+* `Naive_Bayes_.ipynb` - Python code to load the clothing reviews dataset, preprocess the text data, train a Naive Bayes model, and evaluate the model performance.
 * `Womens Clothing E-Commerce Reviews.csv` - Input dataset of womens' clothing reviews.
 
 ## Data Preprocessing  
