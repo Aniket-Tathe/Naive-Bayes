@@ -27,22 +27,6 @@ A multinomial Naive Bayes classifier model is trained on the vectorized text dat
 ## Model Evaluation
 The model accuracy is evaluated using:
 
-- Model accuracy score: 79.3%
-- Confusion matrix
-- Classification report  
-- 10-fold cross validation
-
-The model achieves approximately 79.3% accuracy based on the test set.
-
-## Usage  
-The model can be retrained on new data using the preprocessing and model training code in Naive_Bayes_.py. Then the predict() method can be used to predict sentiment for new text data.
-
-Let me know if you would like any other changes!
-
-### Results
-
-The project will output the following results:
-
 - Confusion matrix
 - Accuracy score
 - Classification report
@@ -90,4 +74,4 @@ The k-fold cross-validation results are as follows:
 Cross-validation scores:[0.87218591 0.88162672 0.87944808 0.87863372 0.87136628 0.8619186 0.88735465 0.87718023 0.88008721 0.86991279]
 ```
 
-The model's performance is consistent across the folds, with an average accuracy of 0.88
+The model's performance is consistent across the folds, with an average accuracy of 0.879
