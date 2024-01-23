@@ -47,8 +47,6 @@ array([[ 343,  280],
        [ 423, 4853]], dtype=int64)
 ```
 
-This indicates that the model correctly predicts all negative ratings (0), 100 positive ratings (1), and 100 neutral ratings (2).
-
 ### Classification Report
 
 The classification report provides more detailed information about the model's performance:
